@@ -38,7 +38,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### What I learned
 
 - Using [footer] element instead of [div] excludes the section from being a d-flex item
-- Strenghtened my knowledge in CSS - especially aligning items with `display: flex;` -
+- Strenghtened my knowledge in CSS -- especially aligning items with `display: flex;` --
 
 ### Continued development
 
